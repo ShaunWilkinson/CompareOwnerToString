@@ -6,7 +6,7 @@ using Microsoft.Xrm.Sdk.Workflow;
 
 namespace SPandCRM
 {
-    class CombineString : CodeActivity
+    public class CombineString : CodeActivity
     {
         [RequiredArgument]
         [Input("String")]
