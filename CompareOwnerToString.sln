@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2011
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompareOwnerToString", "CompareOwnerToString\CompareOwnerToString.csproj", "{A6862819-975B-4001-9CB4-B7661A25BC39}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPandCRM", "CompareOwnerToString\SPandCRM.csproj", "{A6862819-975B-4001-9CB4-B7661A25BC39}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
