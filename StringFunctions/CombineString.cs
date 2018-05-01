@@ -17,7 +17,7 @@ namespace SPandCRM
         public InArgument<String> SecondString { get; set; }
 
         [Output("Combined String")]
-        public OutArgument<Boolean> CombinedString { get; set; }
+        public OutArgument<String> CombinedString { get; set; }
 
         protected override void Execute(CodeActivityContext context)
         {
